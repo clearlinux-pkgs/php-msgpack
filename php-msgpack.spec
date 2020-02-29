@@ -4,7 +4,7 @@
 #
 Name     : php-msgpack
 Version  : 2.0.3
-Release  : 3
+Release  : 4
 URL      : https://pecl.php.net//get/msgpack-2.0.3.tgz
 Source0  : https://pecl.php.net//get/msgpack-2.0.3.tgz
 Summary  : No detailed summary available
