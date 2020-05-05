@@ -4,7 +4,7 @@
 #
 Name     : php-msgpack
 Version  : 2.1.0
-Release  : 6
+Release  : 7
 URL      : https://pecl.php.net/get/msgpack-2.1.0.tgz
 Source0  : https://pecl.php.net/get/msgpack-2.1.0.tgz
 Summary  : PHP extension for interfacing with MessagePack
