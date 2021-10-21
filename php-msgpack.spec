@@ -4,7 +4,7 @@
 #
 Name     : php-msgpack
 Version  : 2.1.2
-Release  : 11
+Release  : 12
 URL      : https://pecl.php.net/get/msgpack-2.1.2.tgz
 Source0  : https://pecl.php.net/get/msgpack-2.1.2.tgz
 Summary  : No detailed summary available
