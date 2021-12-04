@@ -4,7 +4,7 @@
 #
 Name     : php-msgpack
 Version  : 2.1.2
-Release  : 14
+Release  : 15
 URL      : https://pecl.php.net/get/msgpack-2.1.2.tgz
 Source0  : https://pecl.php.net/get/msgpack-2.1.2.tgz
 Summary  : No detailed summary available
@@ -61,4 +61,4 @@ make  %{?_smp_mflags}
 
 %files lib
 %defattr(-,root,root,-)
-/usr/lib64/extensions/no-debug-non-zts-20200930/msgpack.so
+/usr/lib64/extensions/no-debug-non-zts-20210902/msgpack.so
