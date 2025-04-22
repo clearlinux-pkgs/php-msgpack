@@ -7,7 +7,7 @@
 #
 Name     : php-msgpack
 Version  : 3.0.0
-Release  : 80
+Release  : 81
 URL      : https://pecl.php.net/get/msgpack-3.0.0.tgz
 Source0  : https://pecl.php.net/get/msgpack-3.0.0.tgz
 Summary  : No detailed summary available
